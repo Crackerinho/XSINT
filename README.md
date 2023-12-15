@@ -1,10 +1,10 @@
 # XSINT
 Made by Synk
 
-#Installation
+## Installation
 pip install -r requirements
 
-#Usage
+## Usage
 python main.py [target username]
 
 For example: python main.py synk
