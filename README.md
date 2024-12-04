@@ -1,5 +1,5 @@
 # XSINT
-Made by Synk
+not Made by Synk
 
 ## Installation
 pip install -r requirements
